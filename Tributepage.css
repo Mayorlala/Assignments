@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tribute-page {
+    text-align: center;
+    background-color: #eee;
+    padding: 60px 30px 50px 30px;
+}
+.heading{
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+.heading-text{
+    font-size: 24px;
+}
+.Nelson{
+    background-color: white;
+    margin: 0;
+    width: 100%;
+}
+.Mandela{
+    font-size: 20px;
+}
+img{
+    align-items: center;
+    justify-content: end;
+    width:98%;
+    height: 98%;
+}
+.timeline{
+    max-width: 700px;
+    margin: 50px auto 0;
+}
+.timeline-list{
+    text-align: left;
+    font-size: 21px;
+    line-height: 170%;
+    margin: 20px;
+}
+.quote{
+    font-size: 20px;
+    line-height: 170%;
+    font-style: italic;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+}
+blockquote{
+    padding: 20px 0;
+
+}
+.name{
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
